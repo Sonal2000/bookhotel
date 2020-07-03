@@ -798,7 +798,7 @@ section{
         padding: 10rem 0;
     }
     .hamburger-menu{
-        display: flex;
+        display: none;
     }
     .nav-list{
         position: initial;
